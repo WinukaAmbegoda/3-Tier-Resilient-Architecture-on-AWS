@@ -1,5 +1,5 @@
 
-  <h1>3-Tier Resilient Architecture on AWS</h1>
+  <h1>TERRaFORM: 3-Tier Resilient Architecture on AWS</h1>
     <p>This repository demonstrates a <strong>3-tier resilient architecture</strong> deployed on AWS using Terraform. It showcases a scalable and fault-tolerant design for hosting applications in a production-grade environment.</p>
 <br>
 <p align="center">
